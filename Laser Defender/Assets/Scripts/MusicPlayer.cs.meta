@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: de01848f3a22f4c029498cef005440ca
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startClip: {instanceID: 0}
+  - gameClip: {instanceID: 0}
+  - endClip: {instanceID: 0}
+  - BossClip: {instanceID: 0}
+  - Complete: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
